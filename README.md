@@ -1,4 +1,4 @@
-# eslint-config-lechaudron-studio
+# eslint-config-lechaudron-studio [![npm version](https://badge.fury.io/js/eslint-config-lechaudron-studio.svg)](https://badge.fury.io/js/eslint-config-lechaudron-studio)
 
 ESLint's rules used by LeChaudron Studio.
 
