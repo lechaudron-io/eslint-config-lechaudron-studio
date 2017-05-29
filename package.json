@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config-lechaudron-studio",
+  "version": "1.0.0",
+  "description": "ESLint configuration used by LeChaudron Studio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lechaudron-io/eslint-config-lechaudron-studio.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Vivien DE BONA <vivien@lechaudron.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lechaudron-io/eslint-config-lechaudron-studio/issues"
+  },
+  "homepage": "https://github.com/lechaudron-io/eslint-config-lechaudron-studio#readme",
+  "peerDependencies": {
+    "eslint": ">= 3",
+    "eslint-plugin-babel": ">= 4",
+    "eslint-plugin-react": ">= 6",
+  }
+}
