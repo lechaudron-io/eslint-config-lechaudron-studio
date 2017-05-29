@@ -9,9 +9,9 @@ ESLint's rules used by LeChaudron Studio.
   * Extends the common rules to add React support
 
 ## Usage
-1. Install the package
+1. Install the package and its peer dependencies
 ```bash
-npm i -D eslint-config-lechaudron-studio
+npm i -D eslint eslint-plugin-babel eslint-config-lechaudron-studio
 ```
 
 2. Use one of the rulesets in your `.eslintrc`. e.g. for React:
@@ -21,7 +21,8 @@ npm i -D eslint-config-lechaudron-studio
 }
 ```
 
-3. When using `eslint-config-lechaudron-studio/react`, the following _devDependency_ is required: `eslint-plugin-react`
+3. When using `eslint-config-lechaudron-studio/react`, the following
+peer dependency  is also required: `eslint-plugin-react`
 ```bash
 npm i -D eslint-plugin-react
 ```
