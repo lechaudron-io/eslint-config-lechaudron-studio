@@ -22,7 +22,6 @@
   "homepage": "https://github.com/lechaudron-io/eslint-config-lechaudron-studio#readme",
   "peerDependencies": {
     "eslint": ">= 3",
-    "eslint-plugin-babel": ">= 4",
-    "eslint-plugin-react": ">= 6",
+    "eslint-plugin-babel": ">= 4"
   }
 }
